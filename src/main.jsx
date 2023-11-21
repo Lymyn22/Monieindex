@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 // import App from './App.jsx'
-import './index.css'
+import './style.css'
 import './css/booststrapp.css'
 import Monieindex from './components/Monieindex'
 import './assets/images/icons8-nigeria-circular-48.png'
